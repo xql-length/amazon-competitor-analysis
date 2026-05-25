@@ -24,7 +24,7 @@ Mode: quick survey (modules 1, 3, 4 only)
 | Core ASIN | B0C6LQPM8M |
 | Listing Date | 2023.06 |
 | Current Price | $49.99 |
-| Rating / Reviews | 4.4鈽?(2,847 reviews) |
+| Rating / Reviews | 4.4★ (2,847 reviews) |
 | Monthly Sales | ~3,200 units |
 | BSR | Pet Supplies #127 / Cat Fountains #3 |
 | Est. Conversion | 8.2% |
@@ -51,16 +51,16 @@ Mode: quick survey (modules 1, 3, 4 only)
 |-----------|----------|-----------|----------|
 | Long-term | 5% coupon | Always on | Year-round |
 | Short Deal | 15% off | ~Monthly | 7 days |
-| Price Cut | None | 鈥?| 鈥?|
+| Price Cut | None | — | — |
 
-**Price Range (90 days):** $44.99 (lowest) 鈥?$49.99 (regular)
+**Price Range (90 days):** $44.99 (lowest) — $49.99 (regular)
 
-**Key Takeaway:** Competitor uses small but consistent coupon rather than deep discounts. Pricing is stable 鈥?brand-led strategy, not price-war.
+**Key Takeaway:** Competitor uses small but consistent coupon rather than deep discounts. Pricing is stable — brand-led strategy, not price-war.
 
 ## Actionable Insights (from 30 min)
 
 1. **Price positioning**: Enter at $39.99-44.99 to undercut while maintaining margin
-2. **Keyword gap**: "UV sterilization pet fountain" has low competition 鈥?target as differentiator
+2. **Keyword gap**: "UV sterilization pet fountain" has low competition — target as differentiator
 3. **Promo playbook**: Start with 10% launch coupon, transition to 5% evergreen
 4. **Ad strategy**: Focus on mid-tail "stainless steel pet fountain" keywords (lower CPC, good intent)
 

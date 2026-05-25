@@ -35,7 +35,7 @@ Include all 7 modules, 90-day analysis window
 | Core ASIN | B07P8MQ43H |
 | Listing Date | 2020.10 |
 | Current Price | EUR 34.99 |
-| Rating / Reviews | 4.6鈽?(58,342 reviews) |
+| Rating / Reviews | 4.6★ (58,342 reviews) |
 | Monthly Sales | ~12,500 units |
 | BSR | Electronics #42 / Portable BT Speakers #1 |
 | Est. Conversion | 12.1% |
@@ -51,7 +51,7 @@ Include all 7 modules, 90-day analysis window
 - Paid Search: 18%
 - Paid Recommendation: 10%
 
-**Level 3 鈥?Top Traffic Tags:**
+**Level 3 — Top Traffic Tags:**
 - Amazon's Choice: 31%
 - Highly Rated: 18%
 - Customers Frequently Viewed: 12%
@@ -67,26 +67,26 @@ Include all 7 modules, 90-day analysis window
 | SB | 25% | 3 | Product lineup + brand |
 | SBV | 10% | 1 | 45s lifestyle video |
 | SD | 5% | 2 | Retargeting display |
-| SDV | 0% | 0 | 鈥?|
+| SDV | 0% | 0 | — |
 
 **Keyword Distribution:**
-- Head: 28% 鈥?"bluetooth speaker", "portable speaker", "JBL speaker"
-- Mid-tail: 52% 鈥?"wasserdichter bluetooth lautsprecher", "kleiner bluetooth speaker"
-- Long-tail: 20% 鈥?German-specific long queries
+- Head: 28% — "bluetooth speaker", "portable speaker", "JBL speaker"
+- Mid-tail: 52% — "wasserdichter bluetooth lautsprecher", "kleiner bluetooth speaker"
+- Long-tail: 20% — German-specific long queries
 
 **Defense Strategy:** Heavy brand term bidding on all "JBL" variants
-**Offense Strategy:** Minimal competitor brand conquest 鈥?brand strength makes it unnecessary
+**Offense Strategy:** Minimal competitor brand conquest — brand strength makes it unnecessary
 
 ### 4. Promotion Strategy & Price Rhythm
 
 | Type | Discount | Frequency | Duration | Purpose |
 |------|---------|-----------|----------|---------|
-| Long-term | None | 鈥?| 鈥?| Brand pricing power |
+| Long-term | None | — | — | Brand pricing power |
 | Short Deal | 15-20% | Every 6-8 weeks | 5-7 days | BSR maintenance |
 | Price Cut | EUR 39.99 -> 34.99 | Once (2023) | Permanent | Competitive adjustment |
 | Mega-sale | 25% | Prime Day, BFCM | 3-5 days | Peak volume |
 
-**Price History (90 days):** EUR 29.99 (Prime Day) 鈥?EUR 34.99 (regular)
+**Price History (90 days):** EUR 29.99 (Prime Day) — EUR 34.99 (regular)
 
 ### 5. Creative Assets & Reusable Templates
 
@@ -112,7 +112,7 @@ Include all 7 modules, 90-day analysis window
 | Channel | Platform | Key Data | Cadence |
 |---------|---------|----------|---------|
 | Website | jbl.com | 2.1M monthly visits (DE traffic ~15%) | Event-synced |
-| Deal Sites | mydealz.de | 3-4 posts/year, avg 280deg heat | Aligned with Amazon deals |
+| Deal Sites | mydealz.de | 3-4 posts/year, avg 280° heat | Aligned with Amazon deals |
 | YouTube | JBL Global | 480K subs, avg 85K views | 2-3 videos/month |
 | Facebook | JBL Deutschland | 210K followers, 1.2% engagement | Daily posts |
 | TikTok | @jblaudio | 1.2M followers | 3-5 short videos/week |
@@ -136,12 +136,12 @@ Include all 7 modules, 90-day analysis window
 
 | Task | Details | Budget | Deadline |
 |------|---------|--------|----------|
-| Product | Add German manual + packaging localization | 鈥?| Week 1 |
+| Product | Add German manual + packaging localization | — | Week 1 |
 | Listing | German keyword optimization (mid-tail focus) | EUR 200 | Week 1 |
 | Ads | SP auto campaign -> manual after 2 weeks | EUR 500/mo | Week 1 |
-| Promo | 15% launch coupon (30 days) | 鈥?| Week 1 |
+| Promo | 15% launch coupon (30 days) | — | Week 1 |
 | Creative | German-language main image video | EUR 800 | Week 3 |
-| Reviews | Vine program enrollment | 鈥?| Week 1 |
+| Reviews | Vine program enrollment | — | Week 1 |
 | Off-site | Outreach to 5 German tech YouTubers | EUR 1,500 | Week 2-4 |
 
 **Total First Month Budget: ~EUR 3,000**

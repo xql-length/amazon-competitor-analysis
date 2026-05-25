@@ -17,7 +17,7 @@ Mode: multi-competitor comparison
 
 ---
 
-# [JP] Matcha Tea Set 鈥?Multi-Competitor Comparison
+# [JP] Matcha Tea Set — Multi-Competitor Comparison
 
 > Analysis Date: 2025.05.20
 > Reference Product: Matcha ceremony set, ceramic + bamboo whisk + box, 3,000-5,000 JPY
@@ -31,7 +31,7 @@ Mode: multi-competitor comparison
 | Metric | Value |
 |--------|-------|
 | Price | 3,980 JPY |
-| Rating | 4.3鈽?(1,240 reviews) |
+| Rating | 4.3★ (1,240 reviews) |
 | Monthly Sales | ~2,800 units |
 | BSR | Kitchen #89 / Tea Sets #2 |
 | Traffic Split | Natural 65% / Paid 35% |
@@ -45,7 +45,7 @@ Mode: multi-competitor comparison
 | Metric | Value |
 |--------|-------|
 | Price | 5,480 JPY |
-| Rating | 4.6鈽?(856 reviews) |
+| Rating | 4.6★ (856 reviews) |
 | Monthly Sales | ~1,500 units |
 | BSR | Kitchen #187 / Tea Sets #5 |
 | Traffic Split | Natural 78% / Paid 22% |
@@ -59,7 +59,7 @@ Mode: multi-competitor comparison
 | Metric | Value |
 |--------|-------|
 | Price | 2,480 JPY |
-| Rating | 4.1鈽?(3,120 reviews) |
+| Rating | 4.1★ (3,120 reviews) |
 | Monthly Sales | ~4,100 units |
 | BSR | Kitchen #31 / Tea Sets #1 |
 | Traffic Split | Natural 55% / Paid 45% |
@@ -79,7 +79,7 @@ Mode: multi-competitor comparison
 | **Traffic** | Starting from scratch | Need natural ranking strategy (mid-tail JP keywords) |
 | **Ads** | Flexible budget | Target Competitor A's keyword gaps |
 | **Promos** | Can be flexible | Avoid Competitor C's race-to-bottom |
-| **Creative** | Video-ready | Competitor A lacks video 鈫?first-mover advantage |
+| **Creative** | Video-ready | Competitor A lacks video -> first-mover advantage |
 | **Reviews** | Need seeding | Vine program + insert card for first 50 reviews |
 | **Packaging** | Traditional Japanese box | Match Competitor B's gift packaging |
 
@@ -115,11 +115,11 @@ Mode: multi-competitor comparison
 
 | Priority | Action | Impact | Effort | Timeline |
 |----------|--------|--------|--------|----------|
-| 馃敶 P0 | Create main image video | High | High | Week 1-2 |
-| 馃敶 P0 | Japanese listing optimization | High | Medium | Week 1 |
-| 馃敶 P0 | Vine program enrollment | High | Low | Day 1 |
-| 馃煛 P1 | Handcrafted packaging design | Medium | High | Week 2-3 |
-| 馃煛 P1 | 2-tier variant setup | Medium | Medium | Week 2 |
-| 馃煛 P1 | SP auto campaign launch | Medium | Medium | Day 1 |
-| 馃煝 P2 | YouTube tea ceremony influencer outreach | Low | High | Week 4+ |
-| 馃煝 P2 | Multi-buy bundle (set + matcha) | Low | Low | Month 2 |
+| 🔴 P0 | Create main image video | High | High | Week 1-2 |
+| 🔴 P0 | Japanese listing optimization | High | Medium | Week 1 |
+| 🔴 P0 | Vine program enrollment | High | Low | Day 1 |
+| 🟡 P1 | Handcrafted packaging design | Medium | High | Week 2-3 |
+| 🟡 P1 | 2-tier variant setup | Medium | Medium | Week 2 |
+| 🟡 P1 | SP auto campaign launch | Medium | Medium | Day 1 |
+| 🟢 P2 | YouTube tea ceremony influencer outreach | Low | High | Week 4+ |
+| 🟢 P2 | Multi-buy bundle (set + matcha) | Low | Low | Month 2 |

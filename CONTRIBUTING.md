@@ -22,7 +22,7 @@ This project adheres to a standard open-source code of conduct. By participating
 
 ## How Can I Contribute?
 
-### 馃悰 Reporting Bugs
+### 🐛 Reporting Bugs
 
 Before submitting a bug report:
 1. Check the [Issues](../../issues) to see if it's already reported
@@ -34,7 +34,7 @@ When submitting, include:
 - **Expected vs actual behavior**
 - **Screenshots** or logs if applicable
 
-### 馃挕 Suggesting Enhancements
+### 💡 Suggesting Enhancements
 
 We especially welcome ideas for:
 - **New analysis modules** (review sentiment, A+ content deep-dive, pricing elasticity, etc.)
@@ -43,7 +43,7 @@ We especially welcome ideas for:
 - **Template improvements** and localization (German, Japanese, Arabic, etc.)
 - **Performance optimizations** for the 7-module pipeline
 
-### 馃摑 Documentation
+### 📝 Documentation
 
 Documentation improvements are always appreciated:
 - Fix typos, clarify instructions
@@ -78,19 +78,19 @@ cp -r . ~/.qclaw/skills/amazon-competitor-analysis
 
 ```
 amazon-competitor-analysis/
-鈹溾攢鈹€ SKILL.md                          # Skill definition (entry point)
-鈹?  鈹溾攢鈹€ Core logic & workflow decision tree
-鈹?  鈹溾攢鈹€ 7 module descriptions
-鈹?  鈹斺攢鈹€ Site adaptation overview
-鈹溾攢鈹€ references/
-鈹?  鈹溾攢鈹€ modules.md                    # Complete output templates per module
-鈹?  鈹溾攢鈹€ site-guide.md                 # Per-marketplace adaptation rules
-鈹?  鈹斺攢鈹€ quick-start.md                # 30-minute rapid survey guide
-鈹溾攢鈹€ assets/
-鈹?  鈹斺攢鈹€ blank-template.md            # Fillable blank research template
-鈹溾攢鈹€ templates/                        # Additional templates (empty by default)
-鈹溾攢鈹€ examples/                         # Worked examples
-鈹斺攢鈹€ docs/                             # Extended documentation
+├── SKILL.md                          # Skill definition (entry point)
+│   ├── Core logic & workflow decision tree
+│   ├── 7 module descriptions
+│   └── Site adaptation overview
+├── references/
+│   ├── modules.md                    # Complete output templates per module
+│   ├── site-guide.md                 # Per-marketplace adaptation rules
+│   └── quick-start.md                # 30-minute rapid survey guide
+├── assets/
+│   └── blank-template.md            # Fillable blank research template
+├── templates/                        # Additional templates (empty by default)
+├── examples/                         # Worked examples
+└── docs/                             # Extended documentation
 ```
 
 ### Key Files to Modify
@@ -175,7 +175,7 @@ Use consistent Markdown table formatting:
 - Documentation: English
 - Code comments: English
 - Variable names: camelCase
-- Marketplace-specific terms: Use local language where appropriate (e.g., "Prime Day" not "浼氬憳鏃?)
+- Marketplace-specific terms: Use local language where appropriate (e.g., "Prime Day" not localized)
 
 ---
 
@@ -269,4 +269,4 @@ Run a full analysis on at least 3 products in the new marketplace to validate th
 
 Feel free to open an issue with the `question` label, or reach out to the maintainers directly.
 
-**Thank you for contributing! 馃帀**
+**Thank you for contributing! 🎉**

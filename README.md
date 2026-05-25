@@ -1,7 +1,7 @@
-# 馃洅 Amazon Competitor Analysis Skill
+# 🛒 Amazon Competitor Analysis Skill
 
 > **AI-powered deep-dive competitor research for Amazon global marketplaces**  
-> Covering all Amazon sites 路 All product categories 路 Full lifecycle support
+> Covering all Amazon sites · All product categories · Full lifecycle support
 
 [![Version](https://img.shields.io/badge/version-1.1-blue.svg)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -9,13 +9,13 @@
 
 ---
 
-## 馃摉 Overview
+## 📖 Overview
 
-**Amazon Competitor Analysis** is a comprehensive AI skill designed for Amazon sellers who need deep, structured intelligence on their competitors' marketing playbooks. Built for the QClaw/OpenClaw agent ecosystem, it systematically dissects any Amazon product across **7 core analysis modules** 鈥?from basic info to actionable strategy blueprints.
+**Amazon Competitor Analysis** is a comprehensive AI skill designed for Amazon sellers who need deep, structured intelligence on their competitors' marketing playbooks. Built for the QClaw/OpenClaw agent ecosystem, it systematically dissects any Amazon product across **7 core analysis modules** — from basic info to actionable strategy blueprints.
 
 Whether you're launching a new product, optimizing your ad spend, or planning global expansion, this skill delivers **standardized competitor reports and differentiated promotion strategies** in hours, not days.
 
-### 馃幆 Who Is This For?
+### 🎯 Who Is This For?
 
 - Amazon sellers analyzing competitor promotion tactics
 - New product launch teams conducting pre-launch competitor research
@@ -25,21 +25,21 @@ Whether you're launching a new product, optimizing your ad spend, or planning gl
 
 ---
 
-## 鉁?Features
+## ✨ Features
 
 ### 7 Core Analysis Modules
 
 | # | Module | What It Covers |
 |---|--------|---------------|
 | 1 | **Basic Info** | Brand, ASIN, price, rating, sales volume, BSR, conversion rate, variants |
-| 2 | **Traffic Structure** | Organic vs. paid split 鈫?search vs. recommendation 鈫?granular tag-level breakdown |
-| 3 | **Ad Strategy** | SP/SB/SBV/SD/SDV across 5 ad types 鈥?keyword distribution, defense/offense tactics |
-| 4 | **Promotion Strategy** | 90-day Keepa price history 鈫?coupon/deal/discount/mega-sale patterns |
-| 5 | **Creative Assets** | Image & video analysis by placement 鈫?content structure 鈫?reusable templates |
-| 6 | **Off-site Traffic** | Website + Deal sites + YouTube/Facebook/TikTok 鈫?channel effectiveness |
-| 7 | **SWOT & Action Plan** | Multi-dimension comparison 鈫?differentiation strategy 鈫?monthly execution checklist |
+| 2 | **Traffic Structure** | Organic vs. paid split → search vs. recommendation → granular tag-level breakdown |
+| 3 | **Ad Strategy** | SP/SB/SBV/SD/SDV across 5 ad types — keyword distribution, defense/offense tactics |
+| 4 | **Promotion Strategy** | 90-day Keepa price history → coupon/deal/discount/mega-sale patterns |
+| 5 | **Creative Assets** | Image & video analysis by placement → content structure → reusable templates |
+| 6 | **Off-site Traffic** | Website + Deal sites + YouTube/Facebook/TikTok → channel effectiveness |
+| 7 | **SWOT & Action Plan** | Multi-dimension comparison → differentiation strategy → monthly execution checklist |
 
-### 馃實 Global Marketplace Support
+### 🌍 Global Marketplace Support
 
 | Region | Marketplaces |
 |--------|-------------|
@@ -49,26 +49,26 @@ Whether you're launching a new product, optimizing your ad spend, or planning gl
 | **Middle East** | UAE, Saudi Arabia |
 | **Southeast Asia** | Singapore, Thailand, Vietnam |
 
-### 鈿?Flexible Workflows
+### ⚡ Flexible Workflows
 
 | Workflow | Time | Modules Used |
 |----------|------|-------------|
 | **Quick Survey** | ~30 min | Module 1 (Basic) + 3 (Ads) + 4 (Promos) |
-| **Deep Research** | 2鈥? hrs | All 7 modules 鈫?full report |
-| **Multi-Competitor** | ~1 hr per competitor | Per-competitor info cards 鈫?merged SWOT |
+| **Deep Research** | 2–4 hrs | All 7 modules → full report |
+| **Multi-Competitor** | ~1 hr per competitor | Per-competitor info cards → merged SWOT |
 
 ---
 
-## 馃殌 Installation
+## 🚀 Installation
 
 ### Prerequisites
 
 - [QClaw](https://github.com/qclaw) or [OpenClaw](https://github.com/openclaw) agent runtime
 - **Required tools** (subscriptions needed):
-  - [Seller Sprite](https://www.sellersprite.com) or [Helium 10](https://www.helium10.com) 鈥?sales, traffic, ad data
-  - [Keepa](https://keepa.com) 鈥?price history, promotion records
-  - [SimilarWeb](https://www.similarweb.com) 鈥?off-site traffic sources
-  - Amazon frontend access 鈥?listings, creatives, related placements
+  - [Seller Sprite](https://www.sellersprite.com) or [Helium 10](https://www.helium10.com) — sales, traffic, ad data
+  - [Keepa](https://keepa.com) — price history, promotion records
+  - [SimilarWeb](https://www.similarweb.com) — off-site traffic sources
+  - Amazon frontend access — listings, creatives, related placements
 
 ### Install via SkillHub (Recommended)
 
@@ -85,7 +85,7 @@ cp -r amazon-competitor-analysis ~/.qclaw/skills/
 
 ---
 
-## 馃弮 Quick Start
+## 🏃 Quick Start
 
 ```
 @amazon-competitor-analysis
@@ -99,7 +99,7 @@ See [references/quick-start.md](references/quick-start.md) for the 30-minute rap
 
 ---
 
-## 馃搵 Usage Examples
+## 📋 Usage Examples
 
 ### Example 1: Quick Survey (30 min)
 
@@ -131,33 +131,33 @@ See [examples/](examples/) for fully worked-out examples with expected outputs.
 
 ---
 
-## 馃搧 Project Structure
+## 📁 Project Structure
 
 ```
 amazon-competitor-analysis/
-鈹溾攢鈹€ SKILL.md                    # Skill definition & core logic
-鈹溾攢鈹€ README.md                   # You are here
-鈹溾攢鈹€ CHANGELOG.md                # Version history
-鈹溾攢鈹€ CONTRIBUTING.md             # How to contribute
-鈹溾攢鈹€ LICENSE                     # MIT License
-鈹溾攢鈹€ .gitignore
-鈹溾攢鈹€ docs/
-鈹?  鈹斺攢鈹€ SKILL_DOCUMENTATION.md  # Full API & module reference
-鈹溾攢鈹€ examples/
-鈹?  鈹溾攢鈹€ quick-survey-example.md
-鈹?  鈹溾攢鈹€ deep-research-example.md
-鈹?  鈹斺攢鈹€ multi-competitor-comparison.md
-鈹溾攢鈹€ templates/
-鈹?  鈹斺攢鈹€ blank-research-template.md  # Fillable research template
-鈹斺攢鈹€ references/
-    鈹溾攢鈹€ modules.md               # 7-module complete output templates
-    鈹溾攢鈹€ site-guide.md            # Marketplace-specific adaptation guide
-    鈹斺攢鈹€ quick-start.md           # 30-minute quick survey workflow
+├── SKILL.md                    # Skill definition & core logic
+├── README.md                   # You are here
+├── CHANGELOG.md                # Version history
+├── CONTRIBUTING.md             # How to contribute
+├── LICENSE                     # MIT License
+├── .gitignore
+├── docs/
+│   └── SKILL_DOCUMENTATION.md  # Full API & module reference
+├── examples/
+│   ├── quick-survey-example.md
+│   ├── deep-research-example.md
+│   └── multi-competitor-comparison.md
+├── templates/
+│   └── blank-research-template.md  # Fillable research template
+└── references/
+    ├── modules.md               # 7-module complete output templates
+    ├── site-guide.md            # Marketplace-specific adaptation guide
+    └── quick-start.md           # 30-minute quick survey workflow
 ```
 
 ---
 
-## 馃敡 Dependencies
+## 🔧 Dependencies
 
 ### Data Tools (Required)
 
@@ -170,11 +170,11 @@ amazon-competitor-analysis/
 
 ### Optional Tools
 
-- **Social Blade** 鈥?YouTube/social media follower & engagement data
+- **Social Blade** — YouTube/social media follower & engagement data
 
 ---
 
-## 馃 Contributing
+## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -187,13 +187,13 @@ Areas we'd especially love help with:
 
 ---
 
-## 馃摐 License
+## 📜 License
 
-MIT License 鈥?see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 馃檹 Acknowledgments
+## 🙏 Acknowledgments
 
 - Built for the [QClaw / OpenClaw](https://github.com/openclaw) agent ecosystem
 - Inspired by real Amazon seller workflows and the need for structured, reusable competitor intelligence
@@ -201,4 +201,4 @@ MIT License 鈥?see [LICENSE](LICENSE) for details.
 
 ---
 
-**猸?If this skill helps your Amazon business, give it a star!**
+**⭐ If this skill helps your Amazon business, give it a star!**

@@ -1,4 +1,4 @@
-# Skill Documentation 鈥?Amazon Competitor Analysis
+# Skill Documentation — Amazon Competitor Analysis
 
 > **Version:** 1.1  
 > **Type:** QClaw/OpenClaw Agent Skill  
@@ -26,15 +26,35 @@
 User Request
     |
     v
-鈹屸攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?鈹?        Parameter Parser               鈹?鈹? (ASIN, site, product, mode, period)   鈹?鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?    |
+┌───────────────────────────────────────┐
+│         Parameter Parser               │
+│  (ASIN, site, product, mode, period)   │
+└───────────────────────────────────────┘
+    |
     v
-鈹屸攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?鈹?      Workflow Router                  鈹?鈹? Quick Survey / Deep / Multi-Compare   鈹?鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?    |
+┌───────────────────────────────────────┐
+│       Workflow Router                  │
+│  Quick Survey / Deep / Multi-Compare   │
+└───────────────────────────────────────┘
+    |
     v
-鈹屸攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?鈹?    Site Adaptation Engine             鈹?鈹? Applies marketplace-specific rules    鈹?鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?    |
+┌───────────────────────────────────────┐
+│     Site Adaptation Engine             │
+│  Applies marketplace-specific rules    │
+└───────────────────────────────────────┘
+    |
     v
-鈹屸攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?鈹?    7-Module Pipeline (sequential)     鈹?鈹? Module 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7鈹?鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?    |
+┌───────────────────────────────────────┐
+│     7-Module Pipeline (sequential)     │
+│  Module 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7│
+└───────────────────────────────────────┘
+    |
     v
-鈹屸攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?鈹?      Report Compiler                  鈹?鈹? Markdown report + Action checklist    鈹?鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹?```
+┌───────────────────────────────────────┐
+│       Report Compiler                  │
+│  Markdown report + Action checklist    │
+└───────────────────────────────────────┘
+```
 
 ---
 
@@ -61,7 +81,7 @@ User Request
 
 When `competitor_priority` is `auto`:
 1. BSR top 10 within the category
-2. Same price range (卤30%)
+2. Same price range (±30%)
 3. Fastest growth in last 3 months
 
 ---
@@ -142,7 +162,7 @@ Level 1: Organic vs. Paid Split
 
 **Data Sources:** Seller Sprite / Helium 10 traffic analytics.
 
-**Key Insight:** Identifies which traffic tags drive the most volume 鈥?reveals competitor's organic strength and recommendation engine positioning.
+**Key Insight:** Identifies which traffic tags drive the most volume — reveals competitor's organic strength and recommendation engine positioning.
 
 ---
 
@@ -208,7 +228,7 @@ Main Image Video > Related Video > A+ Video > Ad Video > Main Image > Secondary 
 1. Opening 3 seconds: Pain point introduction
 2. Middle section: Key selling points demonstrated (5-10 features)
 3. Closing: Brand + Slogan + Call to action
-4. Technical specs: Duration, aspect ratio (16:9), resolution (1920x1080)
+4. Technical specs: Duration, aspect ratio (16:9), resolution (1920×1080)
 
 **Image Analysis:**
 - Content structure per position (main, secondary 1-7, A+ modules)
